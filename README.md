@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-      body {
+      body { neymjnhtju5yrwy55555555
         background: #FFFFFF;
         margin: 0;
       }
@@ -15,12 +15,7 @@
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
+        pointer-events
 
       [show-background-image] #backgroundImage {
         visibility: visible;
