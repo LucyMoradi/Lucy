@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-<!doctype html>
+<!doctype html>hbghcdfdchgbnmkln gfdtxyhfgjhkbj
 <html dir="ltr" lang="en"
     chrome-refresh-2023>gfchgjbkjnhvrtxdctghbnjk
   <head>
