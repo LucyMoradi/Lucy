@@ -23,7 +23,7 @@
         border: none;
         height: 100%;tehgfgyuhiuhfrytbukm
         pointer-events: none;
-        position: fixed;
+        position: fixed;khgvgfxsc vbnjmkmhtfgyhujikl
         top: 0;
         visibility: hidden;
         width: 100%;
