@@ -9,20 +9,20 @@
     <style>
 <!doctype html>hbghcdfdchgbnmkln gfdtxyhfgjhkbj
 <html dir="ltr" lang="en"
-<!doctype html>
+<!doctype html>fgdfhfht
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
+    <style>trcuyjc
       body {
         background: #FFFFFF;
         margin: 0;
       }
 
       #backgroundImage {
-        border: none;
+        border: nryrtuyone;
         height: 100%;
         pointer-events: none;
         position: fixed;
