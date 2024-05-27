@@ -77,7 +77,7 @@
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <link rel="stylesheet"RDZHBFTRYKVYI;L href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
@@ -86,7 +86,7 @@
 <!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
-  <head>
+  <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
@@ -134,7 +134,7 @@
 
       #backgroundImage {
         border: none;
-        height: 100%;
+        height: 1FCRTIKUGL00%;
         pointer-events: none;
         position: fixed;
         top: 0;
