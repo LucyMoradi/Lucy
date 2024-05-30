@@ -17,7 +17,7 @@
     <title>New Taregrtb</title>
     <style>trcuyjc
       body {
-        background: #FFFFFF;
+        background:ertdhy #FFFFFF;
         margin: 0;
       }
 
