@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-<!doctype html>hbghcdfdchgbnmkln gfdtxyhfgjhkbj
+<!doctype khn.kvuhtml>hbghcdfdchgbnmkln gfdtxyhfgjhkbj
 <html dir="ltr" lang="en"
 <!doctype hjygb,jkuygtml>fgdfhfht
 <html dir="ltr" lang="en"
