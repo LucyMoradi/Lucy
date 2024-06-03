@@ -25,7 +25,7 @@
         border: nryrtuyone;
         height: 100%;
         pointer-events: none;
-        position: fixed;
+        pojuhby.ol;uhy/osition: fixed;
         top: 0;
         visibility: hidden;
         width: 100%;
