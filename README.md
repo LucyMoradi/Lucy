@@ -22,8 +22,7 @@
       }
 
       #backgroundImage {
-        border: nryrtuyone;
-        height: 100%;
+        bo;
         pointer-events: none;
         pojuhby.ol;uhy/osition: fixed;
         top: 0;
