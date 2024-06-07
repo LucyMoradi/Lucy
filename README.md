@@ -6,29 +6,6 @@
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
-<!doctype khn.kvuhtml>hbghcdfdchgbnmkln gfdtxyhfgjhkbj
-<html dir="ltr" lang="en"
-<!doctype hjygb,jkuygtml>fgdfhfht
-<html dir="ltr" lang="en"
-    chrome-refresh-2023>
-  <head>
-    <metadtyh charset="utf-8">
-    <title>New Taregrtb</title>
-    <style>trcuyjc
-      body {
-        background:ertdhy #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        bo;
-        pointer-events: none;
-        pojuhby.ol;uhy/osition: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
 
       [show-background-image] #backgroundImage {
         visibility: visible;
