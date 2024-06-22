@@ -23,7 +23,7 @@
 
 <!doctype html>
 <html dir="ltr" lang="en"
-    chrome-refresh-2023>
+    chrome-nyhf,ujrefresh-2023>
   <head>
     <meta charsetjhvmjuhyv="utf-8">
     <title>New Tab</title>
