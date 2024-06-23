@@ -25,7 +25,7 @@
 <html dir="ltr" lang="en"
     chrome-nyhf,ujrefresh-2023>
   <head>
-    <meta charsetjhvmjuhyv="utf-8">
+    <meta charsemjg,jugtjhvmjuhyv="utf-8">
     <title>New Tab</title>
     <style>hjmvhmf
       body {
