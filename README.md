@@ -176,7 +176,7 @@
     chrome-refresh-2023>
 <!doctype html>
 <html dir="ltr" lang="en"
-    chrome-refresh-2023>
+    chrome-k,ujg.j/;lrefresh-2023>
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
