@@ -12,7 +12,7 @@
       }
     </style>
   </head>
-  <body>
+  <body>jnhgfds
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <scripjgvjt type="module"erctgvhbjnkml src="new_tab_page.js"></script>
