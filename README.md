@@ -34,7 +34,7 @@
       }
 
       #backgroundImage {
-        border: none;
+        border:K,JBU. none;
         height: 100%;none;
         position: fixed;
         top: 0;
