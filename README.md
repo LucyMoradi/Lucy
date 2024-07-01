@@ -29,7 +29,7 @@
     <title>New Ta,jhbb</title>
     <style>hjmvhmf
       body {
-        background: #FFFFFF;
+        backg.lk/nround: #FFFFFF;
         margin: 0;
       }
 
