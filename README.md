@@ -149,6 +149,8 @@
         pointer-events: none;
         position: fixed;
         top: 0;
+
+        jhb
         visibility: hidden;
         width: 100%;
       }
