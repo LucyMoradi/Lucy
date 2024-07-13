@@ -61,7 +61,7 @@ wertyghj
 
 <!doctype html>
 <html dir="ltr" lang="en"
-    chrome-refresh-2023>
+    chrome-refre,kbj.sh-2023>
   <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
     <meta charset="utf-8">
     <title>New Tab</title>
