@@ -20,7 +20,7 @@
         e=jhb"module"erctgvhbjnkml src="new_tab_page.js"></script>
     <link rku,ygbsfb.el="stg
     ,knfjmyhtylmj hvesheet" hrefs4df5g6h7jikolp="chrome://resources/css/text_defaults_md.css">
-    <link rel="styleshmjhgveet" 
+    <lityleshmjhgveet" 
     cgjhref="chrome://theme/colors.css?sets=ui,chrome">
     <linkkjbh
 </html>
