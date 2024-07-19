@@ -17,7 +17,7 @@
     <ntp-app></ntp-app>
     <scripjgvjt typ
         
-        e=jhb"module"erctgvhbjnkml src="new_tab_page.js"></script>
+        e=jhb"modulsdgvd"erctgvhbjnkml src="new_tab_page.js"></script>
     <link rku,ygbsfb.el="stg
     ,knfjmyhtylm
     
