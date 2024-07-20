@@ -13,19 +13,7 @@
     </style>
   </head>
   <body>jnhgfds
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <scripjgvjt typ
-        
-        e=jhb"modulsdgvd"erctgvhbjnkml src="new_tab_page.js"></script>
-    <link rku,ygbsfb.el="stg
-    ,knfjmyhtylm
-    
-    j hvesheet" hrefs4df5g6h7jikolp="chrome://resources/css/text_defaults_md.css">
-    <lityleshmjhgveet" 
-    cgjhref="chrome://theme/colors.css?sets=ui,chrome">
-    <linkkjbh
-</html>
+    <iframe id="bac
 wertyghj
 <!doctype html>
 <html dir="ltr" lang="en"
