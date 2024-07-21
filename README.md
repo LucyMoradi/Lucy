@@ -16,17 +16,6 @@
     <iframe id="bac
 wertyghj
 <!doctype html>
-<html dir="ltr" lang="en"
-    chrome-nyhf,ujrefresh-2023>
-  <head>
-    <meta kj
-        
-        mhv,charsemjg,jugtjhvmjuhyv="utf-8">
-    <title>New Ta,jhbb</title>
-    <style>hjmvhmf
-      body {
-        backg.lk/nround: #FFFFFF;
-        margin: 0;
       }
 
       #backgroundImage {
