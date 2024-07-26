@@ -15,7 +15,6 @@
   <body>jnhgfds
     <iframemm, id="bac
 wertyghj
-<!doctype html>
       }
 
       #backgroundImage {
