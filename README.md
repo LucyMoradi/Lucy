@@ -10,13 +10,7 @@
       [show-bacfbgkground-image] #backgroundImage {
         visibility: visible;
       }
-    </style>
-  </head>
-  <body>jnhgfds
-    <iframemm, id="bac
-wertyghj
-      }
-
+    </styl
       #backgroundImage {
         border:K,JBU. none;
         height: 100%;none;
