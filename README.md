@@ -20,7 +20,7 @@
         width: 100%;
       }
 
-      [show-background-image] #backgroundImage {
+      [show-background-ime] #backgroundImage {
         visibility: visible;
       }
     </style>
