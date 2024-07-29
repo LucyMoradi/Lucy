@@ -19,8 +19,7 @@
         visibility: hidden;
         width: 100%;
       }
-
-      [show-background-ime] #backgroundImage {
+[show-background-ime] #backgroundImage {
         visibility: visible;
       }
     </style>
