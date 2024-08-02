@@ -86,12 +86,7 @@
         border: none;
         height: 1FCRTIKUGL00%;
         pointer-events: none;
-        position: fi
-        
-        xed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
+        posi
       }
 
       [show-background-image] #backgroundImage {
