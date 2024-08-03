@@ -13,7 +13,8 @@
     </styl
       #backgroundImage {
         border:K,JBU. none;
-        height: 100%;none;
+        heigh
+        t: 100%;none;
         position: fixed;
         top: 0;
         visibility: hidden;
