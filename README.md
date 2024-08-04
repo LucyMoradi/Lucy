@@ -15,7 +15,8 @@
         border:K,JBU. none;
         heigh
         t: 100%;none;
-        position: fixed;
+        po
+        sition: fixed;
         top: 0;
         visibility: hidden;
         width: 100%;
