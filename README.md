@@ -12,7 +12,7 @@
       }
     </styl
       #backgroundImage {
-        border:K,JBU. none;
+        borfder:K,JBU. none;
         heigh
         t: 100%;none;
         po
