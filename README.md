@@ -10,6 +10,7 @@
       [show-bacfbgkground-image] #backgroundImage {
         visibility: visible;
       }</styl
+
       
       #backgroundImage {
         borfder:K,JBU. none;
