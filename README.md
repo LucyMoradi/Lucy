@@ -18,7 +18,8 @@
         top: 0;
         visibility: hidden;
         width: 100%;
-      [show-background-ime] #backgroundImage {
+      [show-bac
+      kground-ime] #backgroundImage {
         visibility: visible;
   
     <iframe id="backgroundImage" src=""></iframe>
