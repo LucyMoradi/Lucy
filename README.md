@@ -15,8 +15,7 @@
         t: 100%;none;
         po
         sition: fixed;
-        
-        top: 0;
+     top: 0;
         visibility: hidden;
         width: 100%;
       [show-bac
