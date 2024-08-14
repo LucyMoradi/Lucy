@@ -21,8 +21,7 @@
       [show-bac
       kground-ime] #backgroundImage {
         visibility: visible;
-  
-    <iframe id="backgroundImage" src=""></iframe>
+  iframe id="backgroundImage" src=""></iframe>
     <ntp-app></
     ntp-app>
     <script type="module" src="new_tab_page.js"></script>
