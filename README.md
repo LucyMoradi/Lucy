@@ -14,7 +14,8 @@
         heigh
         t: 100%;none;
         po
-        sition: fixed;
+        sit
+        ion: fixed;
      top: 0;
         visibility: hidden;
         width: 100%;
