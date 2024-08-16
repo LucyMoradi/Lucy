@@ -12,7 +12,7 @@
       }</styl #backgroundImage {
         borfder:K,JBU. none;
         heigh
-        t: 100%;none;
+        t: 00%;none;
         po
         sit
         ion: fixed;
