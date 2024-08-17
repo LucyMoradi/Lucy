@@ -15,7 +15,7 @@
         t: 00%;none;
         po
         sit
-        ion: fixed;
+ ion: fixed;
      top: 0;
         visibility: hidden;
         width: 100%;
