@@ -16,7 +16,7 @@
         po sit
  ion: fixed;
      top: 0;
-        visibility: hidden;
+    visibility: hidden;
         width: 100%;
       [show-bac
       kground-ime] #backgroundImage {
