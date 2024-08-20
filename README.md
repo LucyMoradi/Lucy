@@ -11,8 +11,7 @@
         visibility: visible;
       }</styl #backgroundImage {
         borfder:K,JBU. none;
-        heigh
-        t: 00%;none;
+        heigh t: 00%;none;
         po sit
  ion: fixed;
      top: 0;
