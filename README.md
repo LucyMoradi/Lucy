@@ -6,7 +6,6 @@
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-
  [show-bacfbgkground-image] #backgroundImage {
         visibility: visible;
 }</styl #backgroundImage {
