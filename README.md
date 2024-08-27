@@ -9,7 +9,7 @@
  [show-bacfbgkground-image] #backgroundImage {
         visibility: visible;
 }</styl #backgroundImage {
-        borfder:K,JBU. none;
+        borfder:K,JBU. none;jhvjkcvlh;j;ojkgtftrsefdtfyghujikl
         heigh t: 00%;none;
         po sit
  ion: fixed;
