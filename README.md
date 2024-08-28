@@ -12,7 +12,7 @@
         borfder:K,JBU. none;jhvjkcvlh;j;ojkgtftrsefdtfyghujikl
         heigh t: 00%;none;
  po sit
- ion: fixed;
+ ion: fid;
      top: 0;
     visibility: hidden;
       width: 100%;
