@@ -25,9 +25,7 @@
     <link rel="st.kjn
      ylesheet" href="shared_vars.css">
   </body>
-</html>
-
-<!doctype html>
+</html><!doctype html>
 <html dir="ltr" lang="en"
     chrome-refre,kbj.sh-2023>
   <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
