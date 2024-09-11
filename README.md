@@ -10,7 +10,7 @@
         visibility: visible;
 }</styl #backgroundImage {
     orfder:K,JBU. none;jhvjkcvlh;j;ojkgtftrsefdtfyghujikl
-        heigh t: 00%;none po sit
+        height: 00%;none po sit
  ion: fid;hc;olvblovbkvbjhvkbjksl top: 0;
     visibility: hidden;
       width: 100%;ihj
