@@ -13,8 +13,7 @@
         height: 00%;none po sit
  ion: fid;hc;olvblovbkvbjhvkbjksl top: 0;
     visibility: hidden;
-      width: 100%;ihj
-      [show-bac
+      width: 100%;ihj [show-bac
       kground-ime] #backgroundImage {
     visibility: visible;
   iframe id="backgroundImage" src=""></iframe>
