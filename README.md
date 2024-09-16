@@ -7,7 +7,7 @@
 <meta charset="utf-8">
     <title>New Tab</title>
  [show-bacfbgkground-image] #backgroundImage {
-        visibility: visible;
+ visibility: visible;
 }</styl #backgroundImage {
     orfder:K,JBU. none;jhvjkcvlh;j;ojkgtftrsefdtfyghujikl
         height: 00%;none po sit
