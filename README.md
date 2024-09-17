@@ -26,8 +26,7 @@
     chrome-refre,kbj.sh-2023>
   <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
     <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
+    <title>New Tab</title <style>
       body {
  background: #FFFFFF;
         margin: 0;
