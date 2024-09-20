@@ -29,9 +29,7 @@
     <title>New Tab</title <style body {
  background: #FFFFFF;
         margin: 0;
-      }
-
-      #backgroundImage {
+      } #backgroundImage {
         border: none;
         height: 100%;
         pointer-events: none;
