@@ -25,8 +25,7 @@
   <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
     <meta charset="utf-8">
     <title>New Tab</title <style body {
- background: #FFFFFF; margin: 0;
-      } #backgroundImage {
+ background: #FFFFFF; margin: 0; } #backgroundImage {
         border: none;
         height: 100%;
         pointer-events: none;
