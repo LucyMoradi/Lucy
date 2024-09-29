@@ -29,7 +29,7 @@
         height: 100%;
         pointer-events: none;
         position: fixed;
-        top: 0;
+ top: 0;
         visibility: hidden;
         width: 100%;
       }
