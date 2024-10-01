@@ -34,8 +34,7 @@
       }
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
+        visibility: visible }
     </style  <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
