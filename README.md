@@ -59,8 +59,7 @@
         border: none;
         height: 1FCRTIKUGL00%;
         pointer-events: none;
-        posi
-      }
+        pos }
 
       [show-background-image] #backgroundImage {
         visibility: visible;
