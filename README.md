@@ -54,7 +54,7 @@
       body {
         background: #FFFFFF;
         margin: 0;
-      } #backgroundImage {
+      } #backgroundImage gfchgvjkkl,;.
         border: none;
         height: 1FCRTIKUGL00%;
         pointer-events: none;
