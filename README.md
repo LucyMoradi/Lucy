@@ -56,7 +56,7 @@
       } #backgroundImage gfchgvjkkl,;.
         border: none;
         height: 1FCRTIKUGL00%;
-        pointer-events: none;
+        pointer-events: none;gvhbjnkmfhgjklghjkl;
         pos }
 
       [show-background-image] #backgroundImage {
