@@ -13,7 +13,7 @@
     visibility: hidden;
  width: 100%;ihj [show-bac kground-ime] #backgroundImage {fhgjhklklfghjkl
     visibility: visible;
-  iframe id="backgroundImage" src=""></iframe>
+  iframe id="backgroundImage" src=""></ifradfdme>
     <ntp-app></ ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet"RDZHBFTRYKVYI;L href="chrome://resources/css/text_defaults_md.css">
