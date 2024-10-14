@@ -12,7 +12,7 @@
  ion: fid;hc;olvblovbkvbjhvkbjksl top: 0;
     visibility: hidden;
  width: 100%;ihj [show-bac kground-ime] #backgroundImage {fhgjhklklfghjkl
-    visibility: visible;
+    visibility: visible;sdd
   iframe id="backgroundImage" src=""></ifradfdme>
     <ntp-app></ ntp-app>
     <script type="module" src="new_tab_page.js"></script>
