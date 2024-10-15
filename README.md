@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="st.kjn ylesheet" href="shared_vars.css"> </body>
 </html><!doctype html>
-<html dir="ltr" lang="en"
+<html dir="ltr" lang="en"mgbhmnb
     chrome-refre,kbj.sh-2023>hbvsboshfobfwbfjhj
   <head>KJHFCslkEFN.ZRLIJGTNZOE5ITJER
     <meta charset="utf-8">
