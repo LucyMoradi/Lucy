@@ -1,18 +1,4 @@
 
-<!doctype html>
-<html dir="ltr" lang="en"
-     >
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      html {
-        --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4);
-        background-repeat: no-repeat;
-        height: 100%;
-        overflow: auto;
-      }
-
       @media (prefers-color-scheme: dark) {
         html {
           --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5);
