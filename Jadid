@@ -2,17 +2,6 @@
       @media (prefers-color-scheme: dark) {
         html {
           --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5);
-          --ntp-theme-text-color: white;
-        }
-      }
-
-      html[has-custom-background] {
-        background-image: image-set(
-            url(chrome://theme/IDR_THEME_NTP_BACKGROUND?) 1x,
-            url(chrome://theme/IDR_THEME_NTP_BACKGROUND@2x?) 2x);
-      }
-
-      body {
         align-items: center;
         display: flex;
         height: 100vh;
