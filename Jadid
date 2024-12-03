@@ -1,17 +1,4 @@
 
-      @media (prefers-color-scheme: dark) {
-    <script type="module" src="new_tab_page_third_party.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-  </body>
-</html>
-
-<!doctype html>
-<html dir="ltr" lang="en"
-     >
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
       html {
         --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4);
         --ntp-theme-text-color: var(--google-grey-800);
