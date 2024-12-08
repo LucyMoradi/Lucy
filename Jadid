@@ -5,18 +5,6 @@
         background-attachment: fixed;
         background-color: rgba(255,255,255,1);
         background-position: -64px;
-        background-repeat: no-repeat;
-        height: 100%;
-        overflow: auto;
-      }
-
-      @media (prefers-color-scheme: dark) {
-        html {
-          --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5);
-          --ntp-theme-text-color: white;
-        }
-      }
-
       html[has-custom-background] {
         background-image: image-set(
             url(chrome://theme/IDR_THEME_NTP_BACKGROUND?) 1x,
