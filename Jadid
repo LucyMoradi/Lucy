@@ -1,15 +1,4 @@
 
-      html {
-        --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4);
-        --ntp-theme-text-color: var(--google-grey-800);
-        background-attachment: fixed;
-        background-color: rgba(255,255,255,1);
-        background-position: -64px;
-      html[has-custom-background] {
-        background-image: image-set(
-            url(chrome://theme/IDR_THEME_NTP_BACKGROUND?) 1x,
-            url(chrome://theme/IDR_THEME_NTP_BACKGROUND@2x?) 2x);
-      }
 
       body {
         align-items: center;
