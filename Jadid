@@ -2,15 +2,6 @@
 
       body {
         align-items: center;
-        display: flex;
-        height: 100vh;
-        justify-content: center;
-        margin: 0;
-      }
-
-      cr-most-visited {
-        --most-visited-focus-shadow: 0 0 0 2px var(--ntp-focus-shadow-color);
-        --most-visited-text-color: var(--ntp-theme-text-color);
         --most-visited-text-shadow: none;
       }
 
